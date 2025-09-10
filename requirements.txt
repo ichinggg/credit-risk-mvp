@@ -1,0 +1,11 @@
+pdfplumber
+openpyxl
+re
+argparse
+os
+sys
+math
+datetime 
+json
+typing
+requests
